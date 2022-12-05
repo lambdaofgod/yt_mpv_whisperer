@@ -2,8 +2,14 @@
 
 Watch OpenAI Whisper transcribed youtube videos with mpv (using yd-dlp)
 
+<img src="https://i.imgur.com/dgHuzED.jpg" width="480" height="270"/>
+
+
 ## Usage
 
+```
+bash yt_mpv_whisperer.sh <YOUTUBE_URL>
+```
 
 ## Requirements
 
